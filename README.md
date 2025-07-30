@@ -20,9 +20,9 @@ values, each representing 16 MBTI type indicators. The post column had paragraph
 perform the task of model training.
 
 <p float="left">
-  <img src="images/freq_vs_type_barplot.png" alt="Bar graph showing frequency of different types of personalities" width="350" />
-  <img src="images/density_vs_length_posts.png" alt="Distribution of lengths of the post" width="350" /> 
-  <img src="images/type_pieplot.png" alt="Pie plot showing different types of personalities" width="300" />
+  <img src="freq_vs_type_barplot.png" alt="Bar graph showing frequency of different types of personalities" width="350" />
+  <img src="density_vs_length_posts.png" alt="Distribution of lengths of the post" width="350" /> 
+  <img src="type_pieplot.png" alt="Pie plot showing different types of personalities" width="300" />
 </p>
 
 ### Preprocessing
